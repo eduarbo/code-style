@@ -1,0 +1,15 @@
+{
+  "name": "eduarbo-code-style",
+  "version": "1.0.0",
+  "description": "My opinionated code style for JS projects",
+  "main": "index.js",
+  "keywords": [
+    "eslint",
+    "prettier",
+    "stylelint",
+    "editorconfig"
+  ],
+  "author": "Eduardo Ruiz <eduarbo@gmail.com>",
+  "license": "MIT",
+  "homepage": "https://github.com/eduarbo/code-style"
+}
