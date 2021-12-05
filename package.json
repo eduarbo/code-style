@@ -1,9 +1,15 @@
 {
-  "name": "eduarbo-code-style",
+  "name": "mrm-preset-eduarbo",
   "version": "1.0.0",
-  "description": "My opinionated code style for JS projects",
-  "main": "index.js",
+  "description": "My collection of Mrm tasks to help me keep the code style of my personal projects in sync",
+  "main": "config.json",
+  "files": [
+    "config.json",
+    "*/index.js"
+  ],
   "keywords": [
+    "mrm",
+    "mrm-preset",
     "eslint",
     "prettier",
     "stylelint",
@@ -11,5 +17,5 @@
   ],
   "author": "Eduardo Ruiz <eduarbo@gmail.com>",
   "license": "MIT",
-  "homepage": "https://github.com/eduarbo/code-style"
+  "homepage": "https://github.com/eduarbo/mrm-preset-eduarbo"
 }

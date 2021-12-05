@@ -1,0 +1,10 @@
+{
+	"indent": "tab",
+	"readmeFile": "README.md",
+  "url": "https://eduarbo.com/",
+  "includeContributing": false,
+	"licenseFile": "LICENSE.md",
+	"aliases": {
+		"node": ["license", "readme", "editorconfig", "gitignore"]
+	}
+}
